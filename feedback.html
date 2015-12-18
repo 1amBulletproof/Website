@@ -1,14 +1,36 @@
+<!DOCTYPE html>
 <html>
 	<head>
 		<title>Feedback - Brandon Tarney</title>
+		<meta>FORMS</meta>
 	<body>
 		<h1>Feedback</h1>
-
+		<a href="index.html">home</a> 
 		<form action="http://www.example.com/comments.php">
 			<p>What did you think of this page?</p>
-				<textarea name="comments" cols="20" rows="4">
-				Enter your comments...</textarea>
+				<textarea name="comments" cols="20" rows="4">Enter your comments...</textarea>
 		</form>
+		<form action="http//www.example.com/profile.php">
+			<p>Please select your favorite webpage:
+				<br />
+				<input type="radio" name="favWebPage" value="home" checked="checked" /> homepage
+				<input type="radio" name="favWebPage" value="about" /> about
+				<input type="radio" name="favWebPage" value="feedback" /> feedback
+			</p>
+		</form>
+		<fieldset>
+			<legend>Subscribe</legend>
+			<form action="http://www.example.com/subscribe.php">
+				<p>Subscribe to our email list:</p>
+				<input type="text" name="email" />
+				<input type="submit" name="subscribe" value="subscribe" />
+			</form>
+			<form action="http://www.example.org/subscribe.php">
+				<p>Please enter your email address: </p>
+				<input type ="email" name="email" />
+				<input type="submit" value="Submit" />
+			</form>
+		</fieldset>
 
 	</body>
 </html>

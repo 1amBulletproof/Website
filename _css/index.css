@@ -1,0 +1,19 @@
+body {
+	font-family: Arial, Verdana, sans-serif;
+	background-color: #D0D0D0;
+	}
+#top {
+    position: fixed;
+    width: 100%;
+	left: 0px;
+	top: 0px;
+	background-color: #6f3013;
+	text-align: center;
+	}
+
+
+}
+h1, h2 {
+	color: #ee3e80;}
+p {
+	color: #665544;}

@@ -2,7 +2,7 @@
 Website to represent me, my interests, and my professional materials.
 ***
 
-##THIS IS A WORK IN PROGRESS
+##This is a work-in-progress:
 Please keep in mind that ~~I don't know what I'm doing...~~ I'm learning as I go
 >An investment in knowledge plays the best interest. *-Benjamin Franklin*
 
@@ -18,6 +18,7 @@ Please keep in mind that ~~I don't know what I'm doing...~~ I'm learning as I go
 9. [ ] Use LESS or SASS
 10. [ ] Add javacalc project as applet
 11. [ ] Add extra content (gadget reviews, pics, etc)
+
 ***
 
 ### Project Goals:
@@ -45,6 +46,7 @@ Please keep in mind that ~~I don't know what I'm doing...~~ I'm learning as I go
  - Database setup/management
 
 Here's a link to me on github: [1amBulletproof](https://github.com/1amBulletproof)
+
 Here's how to contact me: <mailto:brandon.tarney@gmail.com>
 
 [![I am bulletproof](http://nehandaradio.com/wp-content/uploads/2011/04/Bullet-Proof-Vest.jpg)"I am Bulletproof"](http://nehandaradio.com/wp-content/uploads/2011/04/Bullet-Proof-Vest.jpg)

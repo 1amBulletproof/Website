@@ -1,5 +1,6 @@
 # Website
 Website to represent me, my interests, and my professional materials.
+***
 
 ##THIS IS A WORK IN PROGRESS
 Please keep in mind that ~~I don't know what I'm doing...~~ I'm learning as I go
@@ -17,7 +18,7 @@ Please keep in mind that ~~I don't know what I'm doing...~~ I'm learning as I go
 9. [ ] Use LESS or SASS
 10. [ ] Add javacalc project as applet
 11. [ ] Add extra content (gadget reviews, pics, etc)
-
+***
 
 ### Project Goals:
 - Produce a website which represents me 
@@ -44,29 +45,6 @@ Please keep in mind that ~~I don't know what I'm doing...~~ I'm learning as I go
  - Database setup/management
 
 Here's a link to me on github: [1amBulletproof](https://github.com/1amBulletproof)
-
 Here's how to contact me: <mailto:brandon.tarney@gmail.com>
 
 [![I am bulletproof](http://nehandaradio.com/wp-content/uploads/2011/04/Bullet-Proof-Vest.jpg)"I am Bulletproof"](http://nehandaradio.com/wp-content/uploads/2011/04/Bullet-Proof-Vest.jpg)
-
-
-
-Tabs should display as code but this function doesn't work here.
-
-```
-<h2>This is definitely code</h2>
-```
-
-***
-## Some Markdown notes
-
-I'm testing *some* __things__
-
-
----
-***
-___
-
-`This should look like code`
-
-
